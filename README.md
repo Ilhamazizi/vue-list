@@ -17,7 +17,6 @@ $ npm run start
 $ npm run generate
 ```
 
-```bash
 ## Screencast
 https://user-images.githubusercontent.com/96110553/185115759-64bd2065-7655-449f-972e-8dfa76a3286c.mp4
-```
+
