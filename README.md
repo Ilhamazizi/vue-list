@@ -6,7 +6,7 @@
 # install dependencies
 $ npm install
 
-# untuk menjalankan di local 
+# untuk menjalankan di local => default localhost:3000
 $ npm run dev
 
 # build for production and launch server
