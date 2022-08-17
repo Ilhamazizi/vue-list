@@ -18,7 +18,6 @@
         :key="i"
         :task="task" />
     </div>
-
   </main>
 </template>
 
